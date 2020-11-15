@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>😜 MI CASA</title>
+    <link>http://example.org/</link>
+    <description>Recent content on 😜 MI CASA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crowdsourcing and Crowdfunding</title>
+      <link>http://example.org/crowdsourcing/</link>
+      <pubDate>Mon, 09 Nov 2020 14:49:02 +0300</pubDate>
+      
+      <guid>http://example.org/crowdsourcing/</guid>
+      <description>Crowdsourcing is &amp;hellip; Coined from the term crowd and outsourcing, means that the group or the masses have a very uniqe influence in processes that gets the work done. Since the advent of the internet connecting people all round the world it is easier to communicate, co-operate and support. Crowdsourcing is benefitial because iy greatly increases scalability, fills knowledge gaps, accelerates the processes, reduces operational costs and increases customer engagement.</description>
+    </item>
+    
+  </channel>
+</rss>
